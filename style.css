@@ -1,19 +1,13 @@
 
 
 
-.but {
-
-    font-size: 28px;
-    font-family: Times New Roman, Helvetica, sans-serif;
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
 }
 
-#but1 {
-    background-color: black;
-    color: white;
-}
-
-#but2 {
-
-    background-color: yellow;
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
 
